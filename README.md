@@ -74,3 +74,21 @@ Portfolio showcase. The private implementation has working flows for AR/AP + GL/
 ## Resume positioning
 
 This project supports fintech, bank technology, accounting automation, B2B SaaS, and full-stack software roles.
+
+<!-- SHOWCASE_PROOF_START -->
+## Demo Evidence Status
+
+This repository is a sanitized public showcase for a private working implementation. The next public proof layer is screenshots and a short demo built from synthetic data.
+
+Current proof files:
+
+- [Architecture](docs/architecture.md)
+- [Data lineage and traceability](docs/data-lineage.md)
+- [Review checks](docs/review-checks.md)
+- [5-minute demo script](docs/demo-script.md)
+- [Showcase proof plan](docs/showcase-proof-plan.md)
+- [Screenshot checklist](screenshots/README.md)
+- [Excel output evidence plan](excel-output/README.md)
+
+Public boundary: no real client data, private firm data, credentials, internal audit files, commercial strategy files, or full private implementation source code are included.
+<!-- SHOWCASE_PROOF_END -->

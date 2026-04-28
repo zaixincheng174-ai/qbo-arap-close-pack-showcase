@@ -1,14 +1,13 @@
-# Excel Output
+# Excel Output Evidence
 
-This folder may contain a sanitized synthetic example workbook in the future.
+This folder is reserved for sanitized Excel output evidence.
 
-Expected workbook sections:
-- Cover / Review Summary
-- Exception List
-- AR/AP Review
-- GL/TB Reconciliation
-- Variance Bridge
-- Ask Client List
-- Source Trace / Evidence Notes
+Recommended public assets:
 
-Only synthetic workbook examples should be committed.
+- screenshot of workbook tabs
+- screenshot of review summary sheet
+- screenshot of exception list sheet
+- screenshot of Ask Client sheet
+- synthetic workbook only, if a workbook is committed later
+
+Do not commit real client workbooks.
