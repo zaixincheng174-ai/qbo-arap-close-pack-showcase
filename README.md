@@ -51,6 +51,15 @@ AR/AP files show subledger-level detail. GL and TB files show the accounting sys
 - Staff preparing client follow-up lists
 - Firms that still rely heavily on Excel workpapers
 
+## Screenshots
+
+Sanitized workflow screenshots are available here:
+
+- [Screenshots gallery](docs/screenshots-gallery.md)
+- [Screenshot checklist](screenshots/README.md)
+
+The screenshots show source upload, detected fields, review status, workbook download, and Excel output evidence.
+
 ## Public showcase contents
 
 - `docs/architecture.md` — system architecture
